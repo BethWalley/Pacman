@@ -1,0 +1,55 @@
+﻿  Pacman.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(1750,1): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>::_Mypair': class 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(1750): message : see declaration of 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\S2D\Input.h(108): message : see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>' being compiled
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(15,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(76,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(98,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(98,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(108,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(108,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(113,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(113,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(151,57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(152,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(215,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(216,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(216,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(220,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(221,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(249,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(251,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(253,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(255,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(260,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(261,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(262,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(263,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(277,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(279,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(281,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(283,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(287,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(288,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(289,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(290,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(306,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(308,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(310,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(312,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(317,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(318,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(319,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(320,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(358,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(368,57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Pacman\Pacman.cpp(479,24): warning C4553: '==': result of expression not used; did you intend '='?
+  Pacman.vcxproj -> C:\Users\Beth\Documents\uni year 2\Fundamentals\Assessment\Pacman\Debug\Pacman.exe
